@@ -22,7 +22,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.title("✨ My Modern AI Assistant")
-st.caption("Powered by Google Gemini ⚡ Fast & Advanced PDF Vision")
+st.caption("Powered by Charlie Production ⚡ Fast & Advanced PDF Vision")
 
 # --- PDF UPLOAD (SIDEBAR) ---
 with st.sidebar:
